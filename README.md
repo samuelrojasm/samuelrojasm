@@ -1,6 +1,5 @@
 
 # ¡Hola! Soy Samuel Rojas 👋
----
 
 ![Banner de stickers](/assets/imagenes/banner_stickers.jpeg)
 

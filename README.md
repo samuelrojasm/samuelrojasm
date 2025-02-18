@@ -24,4 +24,4 @@ Mi pasión es **crear soluciones tecnológicas innovadoras** que enfrenten desaf
 - [Solución de mitigación de vulnerabilidades]()
 
 ## 📬 Contacto:
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- [LinkedIn](https://www.linkedin.com/in/rojas-samuel)

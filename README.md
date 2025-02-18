@@ -1,9 +1,13 @@
 
 # ¡Hola! Soy Samuel Rojas 👋
+---
 
 ![Banner de stickers](/assets/imagenes/banner_stickers.jpeg)
 
-Soy un **Profesional de TI especializado en Ciberseguridad**, con una sólida experiencia en la implementación de soluciones seguras en entornos de **infraestructura y nube (AWS)**. A lo largo de mi carrera, he participado en proyectos clave para:
+---
+
+**Cloud Security Engineer** con experiencia en la implementación de soluciones seguras en infraestructura y nube (AWS). He trabajado en proyectos clave para:
+
 
 - **Protección de sistemas y redes**.
 - **Gestión de riesgos y mitigación de vulnerabilidades**.

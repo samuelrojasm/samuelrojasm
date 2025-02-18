@@ -12,21 +12,17 @@
 - **Cumplimiento normativo** con un enfoque en la mejora continua de la seguridad.
 
 
-## 🛠 Tecnologías que manejo:
+## ⚡ Tecnologías que manejo:
 - ☁️ **AWS (Amazon Web Services)**
-- 🔒 **Ciberseguridad**
+- 🔐 **Ciberseguridad**
 - 🖥 **Infraestructura y Redes**
-- 📊 **Gestión de riesgos**
-- **Python**, **JavaScript**
-- **Docker**, **Kubernetes**
-- 📊 **Data Análisis** (Pandas)
-- **Linux**
+- 📊 **Data Análisis** (Python, JupyterLab, Anaconda, Pandas)
 
-### 🛠 Tools:
+## 🛠 Tools:
 - **Wireshark**
 - **ISO 27002**
 - **NIST(National Institute of Standards and Technology) Cybersecurity Framework**
-- **CIS (Center for Internet Security) Benchmarks** 
+- **CIS (Center for Internet Security) Benchmarks**
 
 ## 🚀 Proyectos y Logros:
 - [Proyecto de Implementación de Seguridad en AWS]()
@@ -34,4 +30,3 @@
 
 ## 📬 Contacto:
 - [LinkedIn](https://www.linkedin.com/in/rojas-samuel)
-

@@ -18,11 +18,11 @@
 - 📊 **Data Análisis** (Python, JupyterLab, Anaconda, Pandas)
 
 ## 🛠 Tools:
-- **[Wireshark](https://www.wireshark.org/)**
-- **[ISO 27002](https://www.iso.org/standard/75652.html)**
-- **[NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)**
-- **[CIS (Center for Internet Security) Benchmarks](https://www.cisecurity.org/cis-benchmarks)**
-- **[MITRE | ATT&CK](https://attack.mitre.org/)**
+- [Wireshark](https://www.wireshark.org/)
+- [ISO 27002](https://www.iso.org/standard/75652.html)
+- [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [CIS (Center for Internet Security) Benchmarks](https://www.cisecurity.org/cis-benchmarks)
+- [MITRE | ATT&CK](https://attack.mitre.org/)
 
 ## 🚀 Proyectos y Logros:
 - [Proyecto de Implementación de Seguridad en AWS]()

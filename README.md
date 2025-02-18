@@ -7,20 +7,26 @@
 
 **Cloud Security Engineer** con experiencia en la implementación de soluciones seguras en infraestructura y nube (AWS). He trabajado en proyectos clave para:
 
-
 - **Protección de sistemas y redes**.
 - **Gestión de riesgos y mitigación de vulnerabilidades**.
 - **Cumplimiento normativo** con un enfoque en la mejora continua de la seguridad.
 
-Además, tengo experiencia en la **configuración de arquitecturas escalables y de alto rendimiento** en la nube.
-
-Mi pasión es **crear soluciones tecnológicas innovadoras** que enfrenten desafíos complejos y aporten valor estratégico a las organizaciones.
 
 ## 🛠 Tecnologías que manejo:
-- 🔒 **Ciberseguridad**
 - ☁️ **AWS (Amazon Web Services)**
+- 🔒 **Ciberseguridad**
 - 🖥 **Infraestructura y Redes**
 - 📊 **Gestión de riesgos**
+- **Python**, **JavaScript**
+- **Docker**, **Kubernetes**
+- 📊 **Data Análisis** (Pandas)
+- **Linux**
+
+### 🛠 Tools:
+- **Wireshark**
+- **ISO 27002**
+- **NIST(National Institute of Standards and Technology) Cybersecurity Framework**
+- **CIS (Center for Internet Security) Benchmarks** 
 
 ## 🚀 Proyectos y Logros:
 - [Proyecto de Implementación de Seguridad en AWS]()
@@ -28,3 +34,4 @@ Mi pasión es **crear soluciones tecnológicas innovadoras** que enfrenten desaf
 
 ## 📬 Contacto:
 - [LinkedIn](https://www.linkedin.com/in/rojas-samuel)
+

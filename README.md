@@ -11,7 +11,6 @@
 - **Gestión de riesgos y mitigación de vulnerabilidades**.
 - **Cumplimiento normativo** con un enfoque en la mejora continua de la seguridad.
 
-
 ## ⚡ Tecnologías que manejo:
 - ☁️ **AWS (Amazon Web Services)**
 - 🔐 **Ciberseguridad**

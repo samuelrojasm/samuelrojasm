@@ -11,8 +11,7 @@
 ¡Bienvenido a mi portafolio! 
 - Reúne mis proyectos y casos de estudio en Cloud Engineering y Cybersecurity
 - Aquí encontrarás una variedad de ejemplos prácticos, guías y recursos
-  
-[Mis Proyectos](https://github.com/samuelrojasm/portafolio-guide)
+- [Mis Proyectos](https://github.com/samuelrojasm/portafolio-guide)
 
 ## ⚡ Tecnologías que manejo:
 - ☁️ **AWS (Amazon Web Services)**

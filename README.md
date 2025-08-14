@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Portafolio
+## 🚀 Proyecto
 ¡Bienvenido a mi portafolio! Reúne mis proyectos y casos de estudio en Cloud Engineering y Cybersecurity. Aquí encontrarás una variedad de ejemplos prácticos, guías y recursos:
 - [Guías, demos, laboratorios y proyectos](https://github.com/samuelrojasm/portafolio-guide)
 

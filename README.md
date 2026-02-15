@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados: AWS EKS & Platform Engineering
+## ⭐ Proyectos Destacados: AWS EKS & Platform Engineering
 ### Amazon EKS Enterprise (Red y Seguridad)
 - **[EKS Private Cluster con Terraform](https://github.com/samuelrojasm/lab-aws-eks-private-cluster-terraform)**: Infraestructura segura con Terraform y VPC Endpoints (PrivateLink) para redes privadas.
 ### GitOps & CI/CD con ArgoCD
@@ -23,7 +23,17 @@
 
 ---
 
-### 📂 Índice General de Proyectos
+## 🚀 Novedades | What's New
+### Febrero 2026
+* [Bootstrap (Configuración Inicial) AWS | Terraform + OIDC]()
+    >  Este repositorio contiene la base de infraestructura necesaria para gestionar estados de Terraform en la nube y establecer una confianza segura entre **`GitHub Actions`** y **`AWS`** mediante **`OIDC (OpenID Connect)`**, eliminando la necesidad de usar llaves de acceso (**`AWS_ACCESS_KEY_ID`**) de larga duración.
+
+* [Análisis de seguridad automatizado de IaC | AWS + Terraform](https://github.com/samuelrojasm/blueprint-aws-tf-security-scans)
+    > Fortalece la postura de seguridad en AWS mediante la implementación de **`Shift Left Security`**. Este repositorio automatiza el análisis estático y la validación de políticas en el código de Terraform, interceptando configuraciones riesgosas antes de que impacten en el aprovisionamiento real.
+
+---
+
+## 📚 Catálogo Completo
 Puedes revisar mi [catálogo completo de proyectos](https://github.com/samuelrojasm/portafolio-guide) para ver otras implementaciones y laboratorios.
 
 ---

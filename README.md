@@ -12,14 +12,19 @@
 
 ## ⭐ Proyectos Destacados: AWS EKS & Platform Engineering
 ### Amazon EKS Enterprise (Red y Seguridad)
-- **[EKS Private Cluster con Terraform](https://github.com/samuelrojasm/lab-aws-eks-private-cluster-terraform)**: Infraestructura segura con Terraform y VPC Endpoints (PrivateLink) para redes privadas.
+- [EKS Private Cluster con Terraform](https://github.com/samuelrojasm/lab-aws-eks-private-cluster-terraform)
+    > Infraestructura segura con Terraform y VPC Endpoints (PrivateLink) para redes privadas.
 ### GitOps & CI/CD con ArgoCD
-- **[Instalación de ArgoCD Agent en EKS usando Terraform + Helm](https://github.com/samuelrojasm/labs-aws-eks-terraform/tree/main/lab-argocd-addon)**: Automatización de despliegues en EKS usando ArgoCD y Terraform.
+- [Instalación de ArgoCD Agent en EKS usando Terraform + Helm](https://github.com/samuelrojasm/labs-aws-eks-terraform/tree/main/lab-argocd-addon)
+    > Automatización de despliegues en EKS usando ArgoCD y Terraform.
 ### EKS Storage & Almacenamiento Persistente
-- **[Gestión de Almacenamiento en EKS con Terraform](https://github.com/samuelrojasm/labs-aws-eks-terraform/tree/main/lab-eks-ebs-pvc)**: Automatización de Terraform para el ciclo de vida de EBS: incluye Addon oficial EBS CSI, configuración de Pod Identity y despliegue de PVC mediante Helm.
-- **[Gestión Externa de EKS Add-ons con Terraform](https://github.com/samuelrojasm/labs-aws-eks-terraform/tree/main/lab-eks-ebs-csi-driver-addon-external)**: Implementación avanzada del EBS CSI Driver gestionado externamente al módulo de EKS.
+- [Gestión de Almacenamiento en EKS con Terraform](https://github.com/samuelrojasm/labs-aws-eks-terraform/tree/main/lab-eks-ebs-pvc)
+    > Automatización de Terraform para el ciclo de vida de EBS: incluye Addon oficial EBS CSI, configuración de Pod Identity y despliegue de PVC mediante Helm.
+- [Gestión Externa de EKS Add-ons con Terraform](https://github.com/samuelrojasm/labs-aws-eks-terraform/tree/main/lab-eks-ebs-csi-driver-addon-external)
+    > Implementación avanzada del EBS CSI Driver gestionado externamente al módulo de EKS.
 ### Artículo de Seguridad en Medium
-- **[Guía de Seguridad IAM](https://medium.com/@samuel.rojas.m/el-peligro-silencioso-en-tu-cuenta-de-aws-evita-el-uso-de-claves-de-acceso-de-aws-de-larga-b42ac24373af)**: Guía sobre cómo eliminar el uso de llaves de larga duración (IAM Access Keys).
+- [Guía de Seguridad IAM](https://medium.com/@samuel.rojas.m/el-peligro-silencioso-en-tu-cuenta-de-aws-evita-el-uso-de-claves-de-acceso-de-aws-de-larga-b42ac24373af)
+    > Guía sobre cómo eliminar el uso de llaves de larga duración (IAM Access Keys).
 
 ---
 
